@@ -1,0 +1,11 @@
+com\testbackens\seti\repositories\sucursalRepository.class
+com\testbackens\seti\repositories\franquiciaRepository.class
+com\testbackens\seti\controllers\ProductController.class
+com\testbackens\seti\models\Product.class
+com\testbackens\seti\SetiApplication.class
+com\testbackens\seti\controllers\FranquiciaController.class
+com\testbackens\seti\repositories\productRepository.class
+com\testbackens\seti\controllers\SucursalController.class
+com\testbackens\seti\DataLoader.class
+com\testbackens\seti\models\Franquicia.class
+com\testbackens\seti\models\Sucursal.class
